@@ -1,9 +1,9 @@
 {
   "brand": {
-    "title": "GARTNER PUBLIC SECTOR DAILY",
-    "subtitle": "New Business Intelligence Briefing"
+    "title": "PUBLIC SECTOR DAILY",
+    "subtitle": "Business Intelligence Briefing"
   },
-  "prepared_for": "Hendrik Steinort, Business Development Director",
+  "prepared_for": "Business Development Team",
   "territory": [
     "Germany Public Sector"
   ],
@@ -126,7 +126,7 @@
     }
   ],
   "email": {
-    "subject_prefix": "Gartner Public Sector Daily"
+    "subject_prefix": "Public Sector Daily"
   },
   "model": {
     "preferred_models": [
